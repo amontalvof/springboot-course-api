@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Wed Dec 14 20:01:19 CST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0185-1383-bbbf-0000019bbc30 
+on database directory memory:/Users/andymontalvo/Documents/study/java/springboot/springboot-course-api/430bc669-0136-4111-aaf0-446baf76780f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
+Loaded from file:/Users/andymontalvo/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=17.0.4.1+9-LTS
+user.dir=/Users/andymontalvo/Documents/study/java/springboot/springboot-course-api
+os.name=Mac OS X
+os.arch=x86_64
+os.version=11.6.8
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Dec 14 20:02:48 CST 2022:
+Shutting down instance a816c00e-0185-1383-bbbf-0000019bbc30 on database directory memory:/Users/andymontalvo/Documents/study/java/springboot/springboot-course-api/430bc669-0136-4111-aaf0-446baf76780f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@531d72ca 
